@@ -2,7 +2,7 @@ int PistonMoveAbs(int newPosition);
 int PistonMoveAbsWTO(int newPosition, short int *Volt,
                      short int *Amp, time_t timeout);
  
-#include <apfi9.h>
+#include <apf9i.h>
 #include <control.h>
 #include <limits.h>
 #include <logger.h>
