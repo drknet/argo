@@ -9,3 +9,6 @@ int PistonMoveAbsWTO(int newPosition, short int *Volt,
 #include <logger.h>
 #include <stdlib.h>
 #include <time.h>
+
+* Revision 1.19  2022/04/21 13:37:41  swift
+* Changed copyright attribute.
